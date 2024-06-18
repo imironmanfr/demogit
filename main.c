@@ -3,7 +3,8 @@
 void printHelloWorld() 
 {
 printf("Hello, World px!\n");
-printf("byebye")
+printf("abc");
+printf("byebye");
 }
  
 int main() 
